@@ -13,5 +13,6 @@
 - Change the cookie value into, well, the correct answer
 
 <img width="1034" height="855" alt="image" src="https://github.com/user-attachments/assets/354734e3-a736-4de5-9586-986d4a02937b" />
-- BOOM!! got the flag easily, might be the easiest question there is :>
+- BOOM!! got the flag easily, might be the easiest question there is :> <br>
 - Flag: 3108{p3m1mp1n_m4l4y5I4}
+
