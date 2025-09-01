@@ -1,2 +1,43 @@
 # 3108-25-WRITEUPUMAR
-A writeup of my first ctf in Bahtera Siber CTF 2025, i've managed to crack down 2 Web, 2 OSINT and 3 Misc.
+A write-up of my first CTF in Bahtera Siber CTF 2025, I've managed to crack down 2 Web, 2 OSINT and 3 Misc. 37 total flag
+## Stats
+- Total score:  810/7850
+- Rank:         100/800? (scoreboard still frozen)
+- Solved:       9/37 Challenges (Including entrance and exit doors)
+
+## Categories
+### Pintu Masuk
+- [Ketuk Ketuk (10)]
+  
+### Web
+- [SuperMokh (100)](web/supermokh.md)
+- [Pemimpin (100)](web/pemimpin.md)
+
+### OSINT
+- [Malayan Heroine (100)](osint/malayan_heroine.md)
+- [Jejak Tamu Ilmu (100)](osint/jejak_taman_ilmu.md)
+
+### Miscellaneous
+- [Kotak Angkasa (100)](misc/kotak_angkasa.md)
+- [Komik (100)](misc/komik.md)
+- [Permainan Lagenda (100)](misc/permainan_lagenda.md)
+
+### Pintu Keluar
+- [~ TAMMAT~ (100)]
+
+<div style="border: 2px solid gray; border-radius: 8px; padding: 10px;"></div>
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lesson Learned
