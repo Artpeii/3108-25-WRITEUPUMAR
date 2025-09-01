@@ -2,7 +2,7 @@
 A write-up of my first CTF in Bahtera Siber CTF 2025, I've managed to crack down 2 Web, 2 OSINT and 3 Misc. 37 total flag
 ## Stats
 - Total score:  810/7850
-- Rank:         100/800? (scoreboard still frozen)
+- Rank:         100/711 (scoreboard still frozen)
 - Solved:       9/37 Challenges (Including entrance and exit doors)
 
 ## Categories
