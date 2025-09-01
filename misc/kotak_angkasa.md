@@ -11,4 +11,5 @@ Flag: 3108{Sh31kh_MuZ4ph4r_5p4c3_73219}
 
 ### Takeaways:
 - I realise by reading others' write-ups, you can modify the JavaScript of the cube to the solved state.
-- Nonetheless, solving the puzzle was fun �
+- Nonetheless, solving the puzzle was fun 
+
