@@ -14,18 +14,19 @@ Flag: 3108{Sh31kh_MuZ4ph4r_5p4c3_73219}
 - Nonetheless, solving the puzzle was fun xD
 - This is the code btw: <br>
   *note: the code isn't from me okay* <br>
-`const cube = { `
-`front:  Array(9).fill("green"), `
-`back:   `
-`Array(9).fill("blue"), `
-`left:   `
-`Array(9).fill("orange"), `
-`right:  Array(9).fill("red"), `
-`top:    `
-`Array(9).fill("white"), `
-`bottom: Array(9).fill("yellow") `
-`}; `
-`socket.emit("cubeState", cube);`
+`const cube = { 
+front:  Array(9).fill("green"), 
+back:   
+Array(9).fill("blue"), 
+left:   
+Array(9).fill("orange"), 
+right:  Array(9).fill("red"), 
+top:    
+Array(9).fill("white"), 
+bottom: Array(9).fill("yellow") 
+}; 
+socket.emit("cubeState", cube);`
+
 
 
 
