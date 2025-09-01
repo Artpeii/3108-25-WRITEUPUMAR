@@ -25,15 +25,10 @@ A write-up of my first CTF in Bahtera Siber CTF 2025, I've managed to crack down
 ### Pintu Keluar
 - [~ TAMMAT~ (100)](bonus/pintu_keluar.md)
 
-
-
-
-
-
-
-
-
-
-
-
 ## Lesson Learned
+- Always check the cookies and JS, especially for Web CTF
+- I do need to learn more about forensic, cryptography and reverse engineering basics as I can't yet solve any of those challenges.
+- Need to learn using Linux, Docker and many other tools. Thankfully, 100 points OSINT and Web questions are tech-newbie-friendly.
+- Use less of using AI and refer to past CTF writeups to really improve hacking skills.
+
+  
