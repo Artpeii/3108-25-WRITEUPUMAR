@@ -17,7 +17,7 @@ Modify the URL from `/dashboard.php` to `/flag.php`, it says only SuperMokh can 
 
 <img width="1916" height="869" alt="image" src="https://github.com/user-attachments/assets/9a3a2e92-15b4-4ff2-9ebb-17c7c55bb7d6" />
 
-- Go back to 'dashboard.php` and inspect the cookie, the value of `auth_token` looks like JWT token.
+- Go back to `dashboard.php` and inspect the cookie, the value of `auth_token` looks like JWT token.
 
 <img width="1739" height="814" alt="image" src="https://github.com/user-attachments/assets/6a28f650-5815-46b8-bb41-b671f7432a80" />
 
@@ -34,3 +34,4 @@ Modify the URL from `/dashboard.php` to `/flag.php`, it says only SuperMokh can 
 ### Lessorn learned
 - Always inspect the cookie.
 - I learned from others' write-ups that it's more efficient to handle JWT tokens with Linux.
+
