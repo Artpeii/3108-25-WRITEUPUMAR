@@ -1,8 +1,8 @@
 # 3108-25-WRITEUPUMAR
-A write-up of my first CTF in Bahtera Siber CTF 2025, I've managed to crack down 2 Web, 2 OSINT and 3 Misc. 37 total flag
+A write-up of my first CTF in Bahtera Siber CTF 2025, I've managed to crack down 2 Web, 2 OSINT and 3 Misc.
 ## Stats
-- Total score:  810/7850
-- Rank:         100/711 (scoreboard still frozen)
+- Total score:  810 points
+- Rank:         138/711 (scoreboard still frozen)
 - Solved:       9/37 Challenges (Including entrance and exit doors)
 
 ## Categories
